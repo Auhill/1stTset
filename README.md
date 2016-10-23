@@ -1,2 +1,3 @@
-# 1stTset
-My 1st testing github repository
+# 1stTest
+My 1st testing github repository.
+Hooray!
